@@ -1,0 +1,32 @@
+
+body{
+   
+
+    background: url(../images/cover22.jpg) no-repeat center center fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+     background-size:cover;
+    
+   
+}
+
+.mm{
+
+
+    background-color: rgba(112, 118, 104, 0.62);
+
+    margin: 120px auto;
+    width: 79%;
+    /* height: 66%; */
+    border-radius: 28px;
+}
+
+form{
+    font-size: 27px;
+    height: AUTO;
+}
+.head{
+   
+    height: 400px;
+}

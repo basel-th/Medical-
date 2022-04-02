@@ -1,0 +1,60 @@
+
+.m{
+
+    margin: 30px auto;
+
+    
+}
+
+.IMAGE{
+
+
+    background-color: aquamarine;
+    width: 200PX;
+}
+
+.box{
+    border: 2px solid #333;
+    margin-bottom: 15px;
+    margin-right:10px ;
+    width: 600px;
+    height: 700px;
+}
+
+.box img{
+
+    width: 596px;
+    height: 531px;
+}
+
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 2rem;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    margin-top: 0rem;
+    font-weight: bold;
+
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.h2, h2 {
+    font-size: 2.25rem;
+    font-weight: bold;
+}
+
+.nav-item{
+font-size: 20px;
+
+}
+
+.navbar-brand {
+  
+    font-size: 1.75rem;
+}
+
+.font{    font-size: 30px;
+    font-weight: bold;}
